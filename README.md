@@ -2,7 +2,7 @@
 wordlist generator 
 
 # Announcement 
-The creator of the wordlist tool is not responsible at all.
+The creator of the wordlist tool is not responsible for any consequences or misuse that may arise from using this tool. The tool is provided as-is without any warranty. Please use it responsibly and at your own risk. The creator shall not be held liable for any damages or issues caused by the use or misuse of this tool.
 
 # Usage 
 ```
